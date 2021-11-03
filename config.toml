@@ -38,20 +38,12 @@ name = "puppies"
 url = "https://google.com/search?tbm=isch&q=puppies"
 
 [[params.socialIcons]]
-name = "instagram"
+name = "email"
 url = "https://instagram.com/"
 
 [[params.socialIcons]]
-name = "stackoverflow"
-url = "https://stackoverflow.com"
-
-[[params.socialIcons]]
 name = "github"
-url = "https://github.com/"
-
-[[params.socialIcons]]
-name = "gitlab"
-url = "https://gitlab.com/"
+url = "https://github.com/jenningsj"
 
 [[menu.main]]
 identifier = "blog"
