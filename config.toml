@@ -60,5 +60,5 @@ weight = 30
 [[menu.main]]
 identifier = "skills"
 name = "Skills"
-url = "https://google.com/search?tbm=isch&q=cute%20puppies"
+url = "/skills/"
 weight = 20
