@@ -47,18 +47,18 @@ url = "https://github.com/jenningsj"
 
 [[menu.main]]
 identifier = "about"
-name = "about"
+name = "About"
 url = "/about/"
 weight = 10
 
 [[menu.main]]
 identifier = "projects"
-name = "projects"
+name = "Projects"
 url = "/projects/"
 weight = 30
 
 [[menu.main]]
 identifier = "skills"
-name = "skills"
+name = "Skills"
 url = "https://google.com/search?tbm=isch&q=cute%20puppies"
 weight = 20
