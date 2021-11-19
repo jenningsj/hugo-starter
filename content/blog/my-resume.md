@@ -8,7 +8,7 @@ draft: false
 description: "A resume, condensed"
 cover:
   hidden: false
-  image: "profile.png"
+  image: "ACBEnt.jpeg"
   caption: "Allegheny College"
 ---
 
