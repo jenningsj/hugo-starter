@@ -13,5 +13,3 @@ cover:
 ---
 
 This is a blog post. You don't need to have one, but it's nice!
-
-    image: "Resume For website-1.png"
