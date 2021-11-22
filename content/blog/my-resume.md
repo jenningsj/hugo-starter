@@ -12,4 +12,4 @@ cover:
   caption: "Allegheny College"
 ---
 
-[Resume Photo](/static/Resume-1.png)
+![Resume Photo](/static/Resume-1.png)
