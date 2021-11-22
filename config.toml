@@ -38,6 +38,10 @@ name = "email"
 url = "https://instagram.com/"
 
 [[params.socialIcons]]
+name = "linkedin"
+url = "linkedin.com/in/rowen-jennings-a49459224"
+
+[[params.socialIcons]]
 name = "github"
 url = "https://github.com/jenningsj"
 
