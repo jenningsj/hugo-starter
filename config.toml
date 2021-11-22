@@ -35,7 +35,7 @@ url = "/tags/"
 
 [[params.socialIcons]]
 name = "email"
-url = "jennings01@allegheny.edu"
+url = "<a href="mailto:jennings01@allegheny.edu">Send mail</a>"
 
 [[params.socialIcons]]
 name = "linkedin"
