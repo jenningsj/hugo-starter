@@ -5,7 +5,6 @@ weight: 1
 aliases: ["/my-resume-blog"]
 tags: ["blog", "resume",]
 draft: false
-description: "A history condensed"
 cover:
   hidden: false
   image: "Resume-1.png"
