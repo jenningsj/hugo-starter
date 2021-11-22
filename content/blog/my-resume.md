@@ -12,4 +12,4 @@ cover:
   caption: "Allegheny College"
 ---
 
-This is a blog post. You don't need to have one, but it's nice!
+![Resume Photo](/static/Resume For website.png)
