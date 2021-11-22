@@ -8,8 +8,7 @@ draft: false
 description: "A history condensed"
 cover:
   hidden: false
-  image: "ACBEnt.jpeg"
-  caption: "Allegheny College"
+  image: "Resume-1.png"
+  caption: "more information found on skills page"
 ---
 
-![Resume Photo](/static/Resume-1.png)
