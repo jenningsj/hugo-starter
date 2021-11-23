@@ -8,14 +8,11 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: false
 ---
 
-## My project
+## FA 2019 - Electronic Art Emotion Project
 
-You can find the current release on [PyPI](https://www.pypi.org)!
+In 2019, I took a class on electronic art. As my final project, I sent a survey out to my classmates, asking them what sounds and sensations made them feel specific emotions. These included contentment, anger, anxiety, and dread.
 
-I also wrote a [blog](/my-project-blog) about it!
+After collecting their results, I combined them to create collages expressing each of these emotions. I also created soundscapes to play behind each collage. The video is linked below.
 
-- It does a thing
-- I made it with Python and FastAPI
-
-![emotion data collection video](static/videoscreenshot.png)](https://www.youtube.com/watch?v=vFygHQgZvZc "Let's Talk About Our Feelings")
+[Let's Talk About Our Feelings](https://www.youtube.com/watch?v=vFygHQgZvZc "Let's Talk About Our Feelings")
 
