@@ -6,7 +6,9 @@ hideSummary: true
 hidemeta: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: false
+tags: ["project", "art", "video"]
 ---
+
 
 ## FA 2019 - Electronic Art Emotion Project
 

@@ -6,7 +6,11 @@ hideSummary: true
 hidemeta: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: false
-tags: ["project", "art", "video"]
+tags: ["project", "meadiaville", "ethnography"]
+cover:
+  hidden: false
+  image: postcardmeadiaville.png"
+  caption: "poster for meadiaville listening project, season 4"
 ---
 
 ## My project
