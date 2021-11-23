@@ -6,7 +6,7 @@ hideSummary: true
 hidemeta: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: false
-tags: ["project", "meadiaville", "ethnography"]
+tags: ["project", "meadiaville", "ethnography", "thesis", "neoliberalism"]
 ---
 
 ## Meadiaville Listening Project
@@ -20,3 +20,6 @@ Once the interviews were coded and the podcasts were made, we had a listening pa
 
 ## Senior Thesis: Grindr and Neoliberalism
 
+```
+What happens if I try to add a code block?
+```
