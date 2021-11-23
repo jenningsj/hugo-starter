@@ -17,5 +17,7 @@ I also wrote a [blog](/my-project-blog) about it!
 
 ![image alt text](/postcardmeadiaville-1.png)
 
+<img src="postcardmeadiaville-1.png" alt="meadiaville poster" width="200"/>
+
 - It does a thing
 - I made it with Python and FastAPI 
