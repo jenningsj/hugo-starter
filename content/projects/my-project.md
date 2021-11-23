@@ -9,15 +9,14 @@ ShowPostNavLinks: false
 tags: ["project", "meadiaville", "ethnography"]
 ---
 
-## My project
+## Meadiaville Listening Project
 
-You can find the current release on [PyPI](https://www.pypi.org)!
+![meadiaville listening project poster](/postcardmeadiaville-1.png)
 
-I also wrote a [blog](/my-project-blog) about it!
 
-![image alt text](/postcardmeadiaville-1.png)
+This is the poster for Meadiaville Listening Project season 4, Lake Effect Love: Relationships in the Rust Belt. This was an ethnographic study of online dating in Meadville, PA. The 4 podcast series followed Meadville locals recounting their experience using dating apps. 
 
-<img src="postcardmeadiaville-1.png" alt="meadiaville poster" width="200"/>
+Once the interviews were coded and the podcasts were made, we had a listening party at Firehouse, a local restuarant. Links to the actual podcasts will be available at a later time.
 
-- It does a thing
-- I made it with Python and FastAPI 
+## Senior Thesis: Grindr and Neoliberalism
+
