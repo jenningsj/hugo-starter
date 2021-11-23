@@ -20,6 +20,8 @@ Once the interviews were coded and the podcasts were made, we had a listening pa
 
 ## Senior Thesis: Grindr and Neoliberalism
 
-```
-What happens if I try to add a code block?
-```
+My final thesis, "Neoliberalism and Grindr: An Ethnographic Study of Digital Queer Community," discusses how neoliberal ideologies impact queer online dating spaces. Specifically, I discuss how Grindr users are impacted. Spanning physical features of the app, emotional impact, and off-app interactions, data is collected and interpretted to determine just how these networking apps impact the users' headspace. 
+
+The paper discusses the larger societal impact of neoliberalism, Grindr's app interface, and how these two things work together to shape user experience. To connect the two, I focus on the history of intimacy infrastructure. The paper contains a combination of figures composed of research findings and a literature review that outlines the history of queer intimacy online.
+
+Once approved by IRB, a link to my findings and project excerpts will be added.
