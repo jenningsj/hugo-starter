@@ -4,6 +4,6 @@ draft: false
 ShowBreadCrumbs: false
 ---
 
-This page lists my projects. You could put everything in this file, or separate each project into a file in the `/content/projects/` directory.
+Below you will find desciptions of major projects I have spearheaded or contributed to.
 
 
