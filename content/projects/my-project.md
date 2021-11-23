@@ -6,6 +6,7 @@ hideSummary: true
 hidemeta: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: false
+tags: ["project", "art", "video"]
 ---
 
 ## My project
