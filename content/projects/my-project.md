@@ -9,7 +9,7 @@ ShowPostNavLinks: false
 tags: ["project", "meadiaville", "ethnography"]
 cover:
   hidden: false
-  image: postcardmeadiaville-1.png"
+  image: "postcardmeadiaville-1.png"
   caption: "poster for meadiaville listening project, season 4"
 ---
 
