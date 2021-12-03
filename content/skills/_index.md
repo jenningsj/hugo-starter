@@ -4,7 +4,7 @@ draft: false
 ShowBreadCrumbs: false
 ---
 
-Here is a list of skills I've utilized on various projects throughout my academic career. Find more in-depth descriptions of these in the Projects tab.
+Here is a list of skills I've utilized on various projects throughout my academic career. Find more in-depth descriptions of how these skills were practiced in the Projects tab. 
 
 * Docker
 * Github, Markdown
