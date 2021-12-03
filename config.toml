@@ -20,6 +20,7 @@ disableScrollToTop = false
 text = "Home"
 icon = "/profile.jpeg"
 iconHeight = 24
+iconWidth = 24
 
 [params.profileMode]
 enabled = true
